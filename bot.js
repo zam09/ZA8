@@ -736,5 +736,5 @@ if (message.content.startsWith(adminprefix + 'setava')) {
 
 
 
-client.login(NTc1NzM4ODI1MDcwODcwNTU5.XNMZEg.mRZ1GbgP8nrJGf37fG-a0MPWoY0);
+client.login(NTc1NzM4ODI1MDcwODcwNTU5.XNM9rg.Ex4hWOn-cBwD_YDE60KKdPWKCcQ);
 );
